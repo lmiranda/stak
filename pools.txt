@@ -14,7 +14,8 @@
 
 "pool_list" :
 [
-	{"pool_address" : "xmr.pool.minergate.com:45700", "wallet_address" : "lmiranda.mao@gmail.com", "rig_id" : "v100-cloud", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "xmr-us-east1.nanopool.org:14444", "wallet_address" : "482NZxAHoTr4WWnUCxZQgFDxKrmhwrSjWKeCoDvmDyoQTkoVSH7P6weAyfkJdSy4jhiDyywLADaivGQZbDkbwKXBSLNhVr8.t1/lmiranda.mao@gmail.com", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+	{"pool_address" : "xmr-us-west1.nanopool.org:14444", "wallet_address" : "482NZxAHoTr4WWnUCxZQgFDxKrmhwrSjWKeCoDvmDyoQTkoVSH7P6weAyfkJdSy4jhiDyywLADaivGQZbDkbwKXBSLNhVr8.t1/lmiranda.mao@gmail.com", "rig_id" : "", "pool_password" : "", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
