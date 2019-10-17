@@ -53,6 +53,7 @@
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 12 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 13 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 14 },
+    { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 15 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 16 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 17 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 18 },
@@ -68,5 +69,5 @@
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 28 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 29 },
     { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 30 },
-
+    { "low_power_mode" : false, "no_prefetch" : false, "asm" : "auto", "affine_to_cpu" : 31 },
 ],
